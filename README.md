@@ -8,7 +8,7 @@
 - 写不来代码的废物
 
 ![DawnNights's github stats](https://github-readme-stats.vercel.app/api?username=DawnNights&show_icons=true&theme=vue&line_height=20)
-![DawnNights's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnNights&layout=compact&theme=vue&card_width=270)
+[![DawnNights's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnNights)](https://github.com/DawnNights)
 
 ⬇️ **留言板 (点击下方图片给我留言~)**
 <br><br>
